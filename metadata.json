@@ -1,0 +1,6 @@
+{
+  "name": "Graviton",
+  "description": "A futuristic, minimalist AI workspace featuring a responsive liquid-glass orb, intelligent reasoning, and creative tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
